@@ -11,7 +11,7 @@ Bcell	Ms4a1;Bank1;Pax5;Cd19
 Plasma_cell	Igkc;Ighg3;Ighg1;Igha;Cd19-
 PanBcell	Cd79a
 NK	Klrd1;Nkg7;Ncr1;Cd3d-;Cd3e-;Cd3g-;Cd8a-;Cd8b1-
-Neutrophils	Csf3r
+Neutrophils	Csf3r;S100a9;S100a8;Mmp9
 CD4T	Cd4;Cd40lg
 Treg	Foxp3
 CD8T	Cd8a;Cd8b1
