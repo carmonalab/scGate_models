@@ -9,7 +9,6 @@ level1	positive	DC2	Lilrb4;Csf1r;Itgax
 level1	positive	DC3	Fscn1;Ccr7
 level1	positive	MonoDC	Clec10a;Fit3
 level1	negative	Epithelial	
-level1	negative	Stromal	
 level2	positive	Myeloid	
 level2	positive	Macrophage	
 level2	positive	MoMacDC	
@@ -30,4 +29,3 @@ level3	positive	DC1	Xcr1;Cadm1;Itgae
 level3	positive	DC2	Lilrb4;Csf1r;Itgax
 level3	positive	DC3	Fscn1;Ccr7
 level3	positive	MonoDC	Clec10a;Fit3
-level3	negative	Neutrophils	
