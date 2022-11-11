@@ -2,13 +2,11 @@ levels	use_as	name	signature
 level1	positive	Immune	
 level1	positive	Myeloid	
 level1	positive	MoMacDC	
-level1	positive	pDC	
-level1	positive	cDC1	
-level1	positive	cDC2	
-level1	positive	DC3	
+level1	positive	APC	
 level1	negative	Epithelial	
 level1	negative	Endothelial	
 level1	negative	Stromal	
+level2	positive	APC	
 level2	positive	pDC	
 level2	positive	cDC1	
 level2	positive	cDC2	
@@ -23,6 +21,6 @@ level3	positive	pDC
 level3	positive	cDC1	
 level3	positive	cDC2	
 level3	positive	DC3	
-level3	negative	Monocyte2	
+level3	negative	Monocyte_not_cDC2	
 level3	negative	Neutrophils	
 level3	negative	Tcell	
