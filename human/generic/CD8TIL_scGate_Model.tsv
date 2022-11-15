@@ -9,6 +9,7 @@ level2	positive	Lymphoid
 level2	positive	Tcell	
 level2	negative	Myeloid	
 level2	negative	MoMacDC	
+level2	negative	TAM		
 level2	negative	Neutrophils	
 level2	negative	Erythrocyte	
 level3	positive	Tcell	
