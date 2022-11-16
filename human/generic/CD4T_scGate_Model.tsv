@@ -18,3 +18,6 @@ level4	positive	CD4Tcell	CD4;CD40LG;CD2;CD3D;CD3E;CD3G
 level4	positive	Treg	
 level4	negative	CD8T	
 level4	negative	Tgammadelta	
+level5	positive	CD4Tcell	CD4;CD40LG;CD2;CD3D;CD3E;CD3G
+level5	positive	Treg	
+level5	negative	CD8T	
