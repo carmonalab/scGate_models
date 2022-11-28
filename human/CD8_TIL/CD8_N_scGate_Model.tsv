@@ -6,6 +6,7 @@ level1	negative	CD8_INN
 level1	negative	CD8_INN2	
 level1	negative	CD8_GD	
 level1	negative	CD8_TEX	
+level1	negative	CD8_TPEX	
 level2	positive	CD8_N	
 level2	negative	Cytotoxic	
 level2	negative	Exhausted	
@@ -13,3 +14,4 @@ level2	negative	CD8_INN
 level2	negative	CD8_INN2	
 level2	negative	CD8_GD	
 level2	negative	CD8_TEX	
+level2	negative	CD8_TPEX	
