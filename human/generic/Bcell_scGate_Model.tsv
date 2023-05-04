@@ -9,6 +9,7 @@ level1	negative	Stromal
 level2	positive	Lymphoid	
 level2	positive	Bcell	
 level2	positive	PanBcell	
+level2	negative	Myeloid	
 level2	negative	MoMacDC	
 level2	negative	Neutrophils	
 level3	positive	PanBcell	
