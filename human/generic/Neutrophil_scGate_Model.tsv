@@ -14,6 +14,6 @@ level2	negative	Bcell
 level2	negative	Plasma_cell	
 level2	negative	PanBcell	
 level2	negative	Lymphoid	
-level3	positive	Neutrophils
-level3	negative	MoMacDC
-level3	negative	Macrophage
+level3	positive	Neutrophils	
+level3	negative	MoMacDC	
+level3	negative	Macrophage	
