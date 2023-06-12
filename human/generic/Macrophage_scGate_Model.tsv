@@ -20,8 +20,4 @@ level2	negative	PanBcell
 level2	negative	Mast	
 level2	negative	NK	
 level3	positive	Macrophage	
-level3	negative	pDC	
-level3	negative	cDC1	
-level3	negative	cDC2	
-level3	negative	DC3	
 level3	negative	Neutrophils	
