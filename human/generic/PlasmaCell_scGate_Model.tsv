@@ -18,3 +18,7 @@ level3	negative	Bcell
 level3	negative	NK	
 level4	positive	Plasma_cell	
 level4	negative	Bcell	
+level3	negative	pDC	
+level3	negative	cDC1	
+level3	negative	cDC2	
+level3	negative	DC3	
