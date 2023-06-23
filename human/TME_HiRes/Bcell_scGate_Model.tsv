@@ -11,10 +11,7 @@ level2	positive	Bcell
 level2	positive	PanBcell	
 level2	negative	Myeloid	
 level2	negative	MoMacDC	
-level2	negative	Neutrophils	
-level3	positive	PanBcell	
+level2	negative	Neutrophils		
 level3	positive	Bcell	
 level3	negative	Tcell	
-level3	negative	NK	
-level4	positive	Bcell.GerminalCenter	
-Level4	negative	Plasma_cell	
+level3	negative	NK		
