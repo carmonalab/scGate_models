@@ -6,7 +6,6 @@ level1	positive	Neutrophils
 level1	positive	MoMacDC	
 level1	negative	Epithelial	
 level1	negative	Stromal	
-level1	negative	Erythrocyte	
 level2	positive	Myeloid	
 level2	positive	Neutrophils	
 level2	negative	Tcell	
