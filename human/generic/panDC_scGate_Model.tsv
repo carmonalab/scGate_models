@@ -20,6 +20,7 @@ level2	negative	NK
 level3	positive	pDC	
 level3	positive	cDC1	
 level3	positive	cDC2	
+level3	positive	cDC2b	
 level3	positive	DC3	
 level3	negative	Monocyte_not_cDC2	
 level3	negative	Neutrophils	
