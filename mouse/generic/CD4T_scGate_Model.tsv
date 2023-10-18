@@ -14,7 +14,10 @@ level3	positive	Talphabeta
 level3	negative	Bcell	
 level3	negative	NK	
 level3	negative	Plasma_cell	
-level4	positive	CD4T	
+level4	positive	CD4Tcell	Cd4;Cd40lg;Cd2;Cd3d;Cd3e;Cd3g
 level4	positive	Treg	
 level4	negative	CD8T	
 level4	negative	Tgammadelta	
+level5	positive	CD4Tcell	Cd4;Cd40lg;Cd2;Cd3d;Cd3e;Cd3g
+level5	positive	Treg	
+level5	negative	CD8T	
