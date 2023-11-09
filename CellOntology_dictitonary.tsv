@@ -1,4 +1,4 @@
-scGate	Celltype	CL
+scGate_multi	Celltype	CL
 Bcell	B cell	CL:0000236
 CD4T	CD4-positive, alpha-beta T cell	CL:0000624
 CD8T	CD8-positive, alpha-beta T cell	CL:0000625
