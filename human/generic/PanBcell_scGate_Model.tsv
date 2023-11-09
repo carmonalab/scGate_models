@@ -17,4 +17,4 @@ level3	positive	PanBcell
 level3	positive	Plasma_cell	
 level3	positive	Bcell	
 level3	negative	Tcell	
-level3	negative	NK	
+level3	negative	NK
