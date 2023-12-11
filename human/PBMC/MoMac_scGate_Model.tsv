@@ -19,10 +19,10 @@ level2	negative	Bcell
 level2	negative	Plasma_cell	
 level2	negative	PanBcell	
 level2	negative	Mast	
-level2	negative	Megakaryocyte	
 level2	negative	NK	
 level3	positive	Macrophage	
 level3	positive	Monocyte	
+level2	negative	Megakaryocyte	
 level3	negative	pDC	
 level3	negative	cDC1	
 level3	negative	cDC2	
