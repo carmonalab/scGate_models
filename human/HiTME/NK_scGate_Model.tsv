@@ -9,7 +9,6 @@ level2	positive	NK
 level2	negative	Myeloid	
 level2	negative	MoMacDC	
 level2	negative	Neutrophils	
-level2	negative	Monocyte	
 level3	positive	NK	
 level3	negative	Bcell	
 level3	negative	Plasma_cell	
