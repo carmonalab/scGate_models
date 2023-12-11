@@ -9,7 +9,6 @@ level1	positive	APC
 level1	positive	Mast	
 level1	negative	Epithelial	
 level1	negative	Stromal	
-level1	negative	Erythrocyte	
 level2	positive	Macrophage	
 level2	positive	Monocyte	
 level2	positive	Myeloid	
