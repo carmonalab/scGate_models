@@ -9,10 +9,10 @@ level2	positive	Tcell
 level2	negative	Myeloid	
 level2	negative	MoMacDC	
 level2	negative	Neutrophils	
+level2	negative	CD4T	
+level2	negative	CD8T	
+level2	negative	Bcell	
+level2	negative	NK	
+level2	negative	Plasma_cell	
 level3	positive	Tgammadelta	
 level3	negative	Talphabeta	
-level3	negative	CD4T	
-level3	negative	CD8T	
-level3	negative	Bcell	
-level3	negative	NK	
-level3	negative	Plasma_cell	
