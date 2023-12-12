@@ -35,6 +35,11 @@ Model collections available:
 -   **HiTME** <br> Default model used in the HiTME package. Includes immune cells at high resolution and stromal cells (e.g. fibroblasts).
 
 -   **PBMC** <br> Includes immune cells at high resolution, optimized for possible background contamination from lysed blood cells.
-  - For all cells, monocytes negative levels replaced with MoMacDC negative levels due to better specificity
 
 -   **TME_broad** <br> Classification of stromal cells and immune cells at a broad level.
+
+Changelog for model collections:
+-   **PBMC**
+  - For all cells, monocytes negative levels replaced with MoMacDC negative levels due to better specificity
+  - Monocytes: Removed NK negative level because some Monocytes also express NKG7
+  - Monocytes: kept only "myeloid" markers, as SPI1 is most specific for Monocytes
