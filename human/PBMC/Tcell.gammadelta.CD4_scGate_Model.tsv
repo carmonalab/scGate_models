@@ -13,3 +13,5 @@ level2	negative	CD8T
 level2	negative	Bcell	
 level2	negative	NK	
 level2	negative	Plasma_cell	
+level3	positive	Tgammadelta	
+level3	negative	CD4T	
