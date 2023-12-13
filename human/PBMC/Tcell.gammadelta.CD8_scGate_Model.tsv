@@ -4,8 +4,8 @@ level1	positive	Lymphoid
 level1	positive	Tcell	
 level1	negative	Epithelial	
 level1	negative	Stromal	
-level2	positive	Lymphoid	
-level2	positive	Tcell	
+level2	positive	Tgammadelta	
+level2	negative	Talphabeta	
 level2	positive	CD8T	
 level2	negative	Myeloid	
 level2	negative	MoMacDC	
@@ -14,5 +14,3 @@ level2	negative	CD4T
 level2	negative	Bcell	
 level2	negative	NK	
 level2	negative	Plasma_cell	
-level3	positive	Tgammadelta	
-level3	negative	Talphabeta	
