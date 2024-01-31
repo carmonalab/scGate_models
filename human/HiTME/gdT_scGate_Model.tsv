@@ -4,22 +4,25 @@ level1	positive	Lymphoid
 level1	positive	Tcell	
 level1	negative	Epithelial	
 level1	negative	Endothelial	
-level1	negative	Stromal	
+level1	negative	Stromal
 level2	positive	Lymphoid	
 level2	positive	Tcell	
 level2	negative	Myeloid	
 level2	negative	MoMacDC	
-level2	negative	Neutrophils	
+level2	negative	Neutrophils
 level3	positive	Tcell	
-level3	positive	Talphabeta
-level3	negative	Tgammadelta
+level3	negative	Talphabeta
+level3	positive	Tgammadelta
+level3	positive	Tgd1	
+level3	positive	Tgd2	
+level3	positive	Tgd12	
+level3	positive	Tgd22
 level3	negative	Bcell	
 level3	negative	NK	
 level3	negative	Plasma_cell	
-level4	negative	Tgammadelta
-level4	positive	CD4Tcell	CD4;CD40LG;CD2;CD3D;CD3E;CD3G
-level4	positive	Treg	
-level4	negative	CD8T
-level5	positive	CD4Tcell	CD4;CD40LG;CD2;CD3D;CD3E;CD3G
-level5	positive	Treg	
-level5	negative	CD8T	
+level4	negative	Talphabeta
+level4	positive	Tgammadelta
+level4	positive	Tgd1	
+level4	positive	Tgd2	
+level4	positive	Tgd12	
+level4	positive	Tgd22
