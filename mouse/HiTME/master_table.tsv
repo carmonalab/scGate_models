@@ -1,4 +1,4 @@
-model	signature
+name	signature
 APC	H2-Ea;H2-DMb2;H2-DMb1;H2-DMa;H2-Eb2
 Alveolar_type1	Ager;Cav1;Cav2;Emp2;Cldn18;Gprc5a;Hopx
 Alveolar_type2	Sftpc;Sftpa1;Sftpa1;Sftpb;Napsa;Slc34a2
