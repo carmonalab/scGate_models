@@ -24,3 +24,7 @@ Bcell.GerminalCenter	germinal center B cell	CL:0000844
 MoMac	monocyte_macrophage	CL:0000576_CL:0000235
 MoMacDC	monocyte_macrophage_dendritic cell	CL:0000576_CL:0000235_CL:0000451
 MoMacDCMast	monocyte_macrophage_dendritic cell_mast cell	CL:0000576_CL:0000235_CL:0000451_CL:0000097
+Platelet	platelet	CL:0000233
+HSPC	hematopoietic precursor cell	CL_0008001
+gdT	gamma-delta T cell	CL_0000798
+
