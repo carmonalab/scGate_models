@@ -8,9 +8,9 @@ CD4T	Cd4;Cd40lg
 CD8T	Cd8a;Cd8b1
 DC3	Lamp3;Fscn1;Ccl19;Ccl22;Cd274;Ccr7;Birc3
 Endothelial	Ramp2;Tm4sf1;Vwf;Gng11;Epas1;Sparcl1;Ager-;Cldn18-;Col1a1-;Lum-
-Epithelial	Sftpb;Slpi;Wfdc2;Pigr;Slc34a2;Sfta2;Agr3;Elf3;Krt18;Krt19;Krt8
+Epithelial	Wfdc2;Elf3;Krt18;Krt19;Krt8;Krt15;Krt7
 Erythrocyte	Hbb-bs;Hbb-bt;Hba-a2;Hba-a1;Hba-a2;Hba-a1
-Fibroblast	Col1a1;Col1a2;Col3a1;Dcn;Lum;Acta2;Thy1;Krt18-;Krt19-;Krt8-
+Fibroblast	Col5a1;Col6a2;Col6a1;Col1a2;Dcn;Lum;Krt18-;Krt19-;Krt8-;Krt15-;Krt7-
 HSPC	Cd34;Smim24;Prss57
 Immune	Ptprc;Laptm5;Srgn;Cxcr4;Cd52;Col1a1-;Ramp2-
 Lymphoid	Lck
@@ -22,7 +22,7 @@ Monocyte	S100a9;S100a8;Fcnb;Vcan;C1qa-;C1qb-
 Monocyte_not_cDC2	S100a9;S100a8;Fcnb;Vcan;Clec10a-;Mgl2-;S100b-
 Myeloid	Spi1;Cd79a-;Cd19-
 NK	Klrd1;Nkg7;Ncr1;Fcgr4;Cd3d-;Cd3e-;Cd3g-;Cd8a-;Cd8b1-
-Neutrophils	Csf3r;Fcgr4;Anxa2-
+Neutrophils	Csf3r;Cxcr2;Hdc
 PanBcell	Cd79a
 Plasma_cell	Mzb1;Derl3;Cd19-
 Platelet	Itga2b;Pf4;Ppbp
