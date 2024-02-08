@@ -14,6 +14,7 @@ Fibroblast	Col5a1;Col6a2;Col6a1;Col1a2;Dcn;Lum;Krt18-;Krt19-;Krt8-;Krt15-;Krt7-
 HSPC	Cd34;Smim24;Prss57
 Immune	Ptprc;Laptm5;Srgn;Cxcr4;Cd52;Col1a1-;Ramp2-
 Lymphoid	Lck
+Innate_Tcell	Zbtb16
 Macrophage	Apoe;Apoc1;C1qa;C1qb;C1qc;Cd68;Fcer1g
 Mast	Kit;Cpa3;Gata2;Tpsb2;Tpsab1;Tpsb2;Tpsab1;Ms4a2
 Megakaryocyte	Itga2b;Pf4;Ppbp
