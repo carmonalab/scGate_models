@@ -2,6 +2,8 @@ levels	use_as	name	signature
 level1	positive	Epithelial	
 level1	positive	Alveolar_type1	
 level1	positive	Alveolar_type2	
+level1	positive	Keratinocyte	
+level1	positive	Melanocyte	
 level1	negative	Immune	
 level1	negative	Endothelial	
 level1	negative	Fibroblast	
