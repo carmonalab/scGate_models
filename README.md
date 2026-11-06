@@ -43,3 +43,7 @@ Changelog for model collections:
   - For all cells, monocytes negative levels replaced with MoMacDC negative levels due to better specificity
   - Monocytes: Removed NK negative level because some Monocytes also express NKG7
   - Monocytes: kept only "myeloid" markers, as SPI1 is most specific for Monocytes
+
+## Notes on individual models
+
+-   **human/generic/MAIT** <br> Two levels: (T cells or MAIT-like cells) minus epithelial, stromal, endothelial, B, myeloid and plasma cells, then MAIT (SLC4A10, TRAV1-2, KLRB1, IL18RAP, CCR6) minus gamma-delta T and NK cells. Designed to work from whole tissue as well as blood. Run it with `param_decay = 0`: the default shrinks the neighbourhood and gene set at each level, which blurs rare MAIT cells into other memory T cells. `MAIT.level1` has the same genes as `MAIT` but a separate name, so the level-2 score is not carried over from level 1.
